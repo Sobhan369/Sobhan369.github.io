@@ -1,15 +1,15 @@
 [
     {
         "school":"GIET ENGINEERING COLLEGE",
-        "degree":"Bachelor of Science",
-        "major":"Management Information Systems",
+        "degree":"Bachelor of Engineering",
+        "major":"Electrical and Electronics Engineering",
         "notes":"Beta Gamma Signma, High Honors",
         "range":"2006 - 2008"
     },
     {
         "school":"B A RAMAIAH POLYTECHNIC",
-        "degree":"Associate of Applied Science",
-        "major":"Computer Information Systems",
+        "degree":"Diploma",
+        "major":"Electrical and Electronics Engineering",
         "range":"2004 - 2006"
     }
 ]
