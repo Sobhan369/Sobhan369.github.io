@@ -5,16 +5,9 @@
         {"name" : "Java"},
         {"name" : "HTML"},
         {"name" : "CSS"},
+        {"name" : "JS"}, 
         {"name" : "SQL"}  
       ]
-  },
-  {
-      "grouping":"Platform Development & Administration",
-      "skills":[{ "name" : "Postgres Sql"}]
-  },
-    {
-      "grouping":"Data Management",
-      "skills":[{"name":"Microsoft SQL Server","icon":"msql_server"}]
-   }
+  }
 
 ]

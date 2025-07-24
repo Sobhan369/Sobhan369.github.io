@@ -9,4 +9,4 @@ outputs:
 - rss
 - json
 ---
-Proven Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud.
+I am a Full Stack Developer with experience in both frontend and backend development. I build responsive and user-friendly web applications using technologies like HTML, CSS, JavaScript, React, Node.js, and Java with Spring Boot. I also work with databases like MySQL and PostgreSQL. I enjoy solving problems, writing clean code, and delivering complete solutions from start to finish.
